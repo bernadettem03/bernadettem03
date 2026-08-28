@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Bernadette Mathew — Computational Cancer Biology</title>
+  <desc id="desc">A scientific network connects single cells to latent factors and interpretable biological programs.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#092A4A"/>
+      <stop offset="0.54" stop-color="#43356F"/>
+      <stop offset="1" stop-color="#176849"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#63B3ED"/>
+      <stop offset="0.5" stop-color="#B794F4"/>
+      <stop offset="1" stop-color="#68D391"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#041421" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <path d="M0 254 C220 205 330 312 552 264 C770 217 958 249 1200 178 L1200 320 L0 320Z" fill="#FFFFFF" opacity="0.045"/>
+
+  <g opacity="0.58" stroke="#A7D8FF" stroke-width="2">
+    <path d="M77 95 L142 56 L199 103 L160 170 L91 163 Z" fill="none"/>
+    <path d="M142 56 L160 170 M77 95 L199 103 M91 163 L199 103" fill="none" opacity="0.58"/>
+    <path d="M920 79 L997 48 L1061 103 L1020 168 L936 158 Z" fill="none"/>
+    <path d="M997 48 L1020 168 M920 79 L1061 103 M936 158 L1061 103" fill="none" opacity="0.58"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <circle cx="77" cy="95" r="10" fill="#63B3ED"/>
+    <circle cx="142" cy="56" r="13" fill="#B794F4"/>
+    <circle cx="199" cy="103" r="10" fill="#68D391"/>
+    <circle cx="160" cy="170" r="12" fill="#F6AD55"/>
+    <circle cx="91" cy="163" r="8" fill="#FC8181"/>
+    <circle cx="920" cy="79" r="9" fill="#63B3ED"/>
+    <circle cx="997" cy="48" r="13" fill="#68D391"/>
+    <circle cx="1061" cy="103" r="10" fill="#B794F4"/>
+    <circle cx="1020" cy="168" r="12" fill="#F6AD55"/>
+    <circle cx="936" cy="158" r="8" fill="#FC8181"/>
+  </g>
+
+  <g transform="translate(1090 214)" fill="none" stroke="#D7F7E5" stroke-width="3" opacity="0.78">
+    <circle cx="0" cy="0" r="25"/>
+    <circle cx="50" cy="16" r="18"/>
+    <circle cx="9" cy="48" r="15"/>
+    <path d="M-9 -2 C-1 -14 15 -14 21 -1 C16 13 1 16 -9 -2Z"/>
+    <path d="M40 15 C46 5 57 7 63 16 C58 27 46 27 40 15Z"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="600" y="121" fill="#FFFFFF" font-size="46" font-weight="700" letter-spacing="0.5">Bernadette Mathew</text>
+    <rect x="389" y="145" width="422" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="600" y="184" fill="#E9F4FF" font-size="22" font-weight="500">Computational Cancer Biology</text>
+    <text x="600" y="221" fill="#CFE4F5" font-size="17" letter-spacing="0.35">Single-cell omics  ·  Knowledge graphs  ·  Interpretable machine learning</text>
+  </g>
+
+  <g transform="translate(270 260)" opacity="0.82">
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#BFDDF2" stroke-width="2"/>
+    <circle cx="47" cy="0" r="18" fill="none" stroke="#D7C7F2" stroke-width="2"/>
+    <circle cx="94" cy="0" r="18" fill="none" stroke="#BDE8CF" stroke-width="2"/>
+    <path d="M18 0 H29 M65 0 H76" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="-5" cy="-4" r="4" fill="#63B3ED"/>
+    <circle cx="43" cy="4" r="4" fill="#B794F4"/>
+    <circle cx="99" cy="-3" r="4" fill="#68D391"/>
+  </g>
+</svg>
