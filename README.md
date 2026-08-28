@@ -6,6 +6,7 @@
   <a href="https://orcid.org/0009-0005-8033-2965"><img src="https://img.shields.io/badge/ORCID-0009--0005--8033--2965-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?hl=en&amp;user=fh44OjcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-356AC3?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
   <a href="https://in.linkedin.com/in/bernadette-mathew-842225103"><img src="https://img.shields.io/badge/LinkedIn-Bernadette_Mathew-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/bernadettem1303"><img src="https://img.shields.io/badge/X-%40bernadettem1303-111111?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Bernadette Mathew on X"></a>
   <a href="mailto:bernadettem@iiitd.ac.in"><img src="https://img.shields.io/badge/Email-bernadettem%40iiitd.ac.in-238B57?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Bernadette Mathew"></a>
 </p>
 
@@ -15,6 +16,7 @@ I am a PhD researcher in **Computational Biology at IIIT-Delhi**, developing int
 
 - Single-cell transcriptomics and cellular heterogeneity
 - Triple-negative breast cancer and tumor evolution
+- Evolutionary genomics and sequence conservation
 - Knowledge-graph-guided representation learning
 - Biological network and pathway analysis
 - Interpretable machine learning for genomics
@@ -32,10 +34,20 @@ scKNIFE integrates biological knowledge graphs with graph-regularized non-negati
 
 [Read the preprint](https://doi.org/10.64898/2026.04.25.720773)
 
+#### kGain
+
+**Selective promotion of oligonucleotides in the course of evolution**
+
+kGain quantifies the gain or loss in genomic k-mer frequencies associated with nucleotide substitutions. The study applies this measure across *E. coli* and *S. cerevisiae* long-term evolution experiments and SARS-CoV-2 variation to investigate how local sequence composition relates to mutation persistence and evolutionary selection.
+
+[Read the co-first-author preprint](https://doi.org/10.1101/2024.07.05.602168)
+
 ### Selected publications
 
-- **A multitask single-cell analysis framework with knowledge graph as a prior.** Mathew B. *et al.* bioRxiv, 2026. [DOI](https://doi.org/10.64898/2026.04.25.720773)
-- **Network based simultaneous embedding of cells and marker genes from scRNA-seq studies.** Bhattacharya N. *et al.* *Briefings in Bioinformatics*, 26(5), 2025. [DOI](https://doi.org/10.1093/bib/bbaf537) · [PubMed](https://pubmed.ncbi.nlm.nih.gov/41052280/)
+- **Selective promotion of oligonucleotides in the course of evolution.** Mathew B.<sup>*</sup>, Halder A.<sup>*</sup>, *et al.* bioRxiv, 2024. **Co-first author.** [DOI](https://doi.org/10.1101/2024.07.05.602168)
+- **A multitask single-cell analysis framework with knowledge graph as a prior.** Mathew B. *et al.* bioRxiv, 2026. **First author.** [DOI](https://doi.org/10.64898/2026.04.25.720773)
+
+<sup>*</sup> Equal contribution.
 
 For my complete and current publication record, visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=fh44OjcAAAAJ).
 
@@ -58,5 +70,6 @@ I value analysis workflows that preserve data provenance, expose parameter choic
 - [ORCID](https://orcid.org/0009-0005-8033-2965)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=fh44OjcAAAAJ)
 - [LinkedIn](https://in.linkedin.com/in/bernadette-mathew-842225103)
+- [X / Twitter](https://x.com/bernadettem1303)
 - [IIIT-Delhi researcher profile](https://iiitd.ac.in/people/phd/current)
 - [bernadettem@iiitd.ac.in](mailto:bernadettem@iiitd.ac.in)
