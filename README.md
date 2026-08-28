@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://orcid.org/0009-0005-8033-2965"><img src="https://img.shields.io/badge/ORCID-0009--0005--8033--2965-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?hl=en&amp;user=fh44OjcAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-356AC3?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar"></a>
   <a href="https://in.linkedin.com/in/bernadette-mathew-842225103"><img src="https://img.shields.io/badge/LinkedIn-Bernadette_Mathew-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:bernadettem@iiitd.ac.in"><img src="https://img.shields.io/badge/Email-bernadettem%40iiitd.ac.in-238B57?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Bernadette Mathew"></a>
@@ -54,8 +55,8 @@ I value analysis workflows that preserve data provenance, expose parameter choic
 
 ### Connect
 
+- [ORCID](https://orcid.org/0009-0005-8033-2965)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=fh44OjcAAAAJ)
 - [LinkedIn](https://in.linkedin.com/in/bernadette-mathew-842225103)
 - [IIIT-Delhi researcher profile](https://iiitd.ac.in/people/phd/current)
 - [bernadettem@iiitd.ac.in](mailto:bernadettem@iiitd.ac.in)
-
